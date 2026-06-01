@@ -1,0 +1,11 @@
+.DS_Store
+.DS_Store
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+build/
+dist/
+*.egg-info/
+*.so
+*.o
